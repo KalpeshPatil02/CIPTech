@@ -12,4 +12,4 @@ This task involves creating a Java program where the user has to guess a randoml
 E-Examinate is an online examination system implemented in Java. It includes features such as user authentication, test-taking functionality, and result calculation.
 
 ## 📫 Connect with me :
-- LinkedIn: [Kalpesh Patil](www.linkedin.com/in/kalpeshpatil02)
+- LinkedIn: [Kalpesh Patil](www.linkedin.com/in/kalpeshpatil20)
